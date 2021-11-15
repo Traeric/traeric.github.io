@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as s,a as n}from"./app.d521e2e3.js";const r='{"title":"安装","description":"","frontmatter":{},"headers":[{"level":2,"title":"npm安装","slug":"npm安装"}],"relativePath":"document/index.md","lastUpdated":1635731333034}',t={},p=[n('',6)];var d=e(t,[["render",function(e,n,r,t,d,i){return a(),s("div",null,p)}]]);export{r as __pageData,d as default};
