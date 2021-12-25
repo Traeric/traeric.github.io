@@ -1,4 +1,4 @@
-import{D as C,C as _,a as g}from"./CodePanel.d5b28c81.js";import{e as h,W as F,r as s,o as m,c as B,w as u,f as t,j as c,s as o}from"./vendor.e6d22bf6.js";import{_ as f}from"./index.15a71c98.js";import"./commonFunc.c6b8e963.js";const E={codeBase:`<template>
+import{D as C,C as _,a as g}from"./CodePanel.e2d0612f.js";import{e as h,W as F,r as s,o as m,c as B,w as u,f as t,j as c,s as o}from"./vendor.e6d22bf6.js";import{_ as f}from"./index.54500873.js";import"./commonFunc.c6b8e963.js";const E={codeBase:`<template>
     <div style="width: 350px;">
         <as-jigsaw-slider />
     </div>

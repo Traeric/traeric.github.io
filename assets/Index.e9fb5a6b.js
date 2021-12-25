@@ -1,4 +1,4 @@
-import{D as A,C as f,a as b}from"./CodePanel.d5b28c81.js";import{_ as y}from"./index.15a71c98.js";import{e as F,r as i,o as B,c as h,w as t,f as u,s as e,j as p}from"./vendor.e6d22bf6.js";import"./commonFunc.c6b8e963.js";const m={codeBase:`<template>
+import{D as A,C as f,a as b}from"./CodePanel.e2d0612f.js";import{_ as y}from"./index.54500873.js";import{e as F,r as i,o as B,c as h,w as t,f as u,s as e,j as p}from"./vendor.e6d22bf6.js";import"./commonFunc.c6b8e963.js";const m={codeBase:`<template>
     <div class="as-row">
         <as-button>\u9ED8\u8BA4\u6309\u94AE</as-button>
         <as-button type="primary">\u5E38\u89C4\u6309\u94AE</as-button>
