@@ -1,4 +1,4 @@
-import{D as B,C as l,a as h}from"./CodePanel.b5f7e798.js";import{e as _,r as s,o as g,c as m,w as u,W as D,f as e,j as c,q as o}from"./vendor.0404547e.js";import{_ as f}from"./index.458edfbc.js";import"./commonFunc.a5cb2dc9.js";const A={codeBase:`<template>
+import{D as B,C as l,a as h}from"./CodePanel.fd8754fa.js";import{e as _,r as s,o as g,c as m,w as u,W as D,f as e,j as c,s as o}from"./vendor.e6d22bf6.js";import{_ as f}from"./index.a60cb413.js";import"./commonFunc.c6b8e963.js";const A={codeBase:`<template>
     <div style="width: 350px;">
         <as-rotate-slider />
     </div>

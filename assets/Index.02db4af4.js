@@ -1,4 +1,4 @@
-import{D as _,C as h,a as g}from"./CodePanel.b5f7e798.js";import{e as B,r as s,o as m,c as F,w as u,W as f,f as t,j as c,q as o}from"./vendor.0404547e.js";import{_ as D}from"./index.458edfbc.js";import"./commonFunc.a5cb2dc9.js";const E={codeBase:`<template>
+import{D as _,C as h,a as g}from"./CodePanel.fd8754fa.js";import{e as B,r as s,o as m,c as F,w as u,W as f,f as t,j as c,s as o}from"./vendor.e6d22bf6.js";import{_ as D}from"./index.a60cb413.js";import"./commonFunc.c6b8e963.js";const E={codeBase:`<template>
     <div style="width: 350px;">
         <as-text-slider />
     </div>
